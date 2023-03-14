@@ -625,6 +625,8 @@ img {
 
 .mobile-contacts-link {
   color: var(--color-body-text);
+  font-size: 36px;
+  font-weight: 700;
 }
 
 .mobile-contacts-link:hover {
@@ -695,6 +697,7 @@ img {
   max-width: 1600px;
   height: 432px;
   margin: 0 auto;
+  background-attachment: fixed;
   background-color: var(--color-brand);
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
